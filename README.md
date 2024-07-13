@@ -14,6 +14,7 @@ Carvis is an innovative car assistant that taps into the CAN-Bus network of your
 - **Data Analysis Notebook**: Jupyter notebook for parsing and analyzing CAN data.
 
 ### Coming Soon
+- **API**: An API for accessing Carvis data and integrating with other applications.
 - **Predictive Maintenance**: Alerts for upcoming maintenance needs to prevent unexpected breakdowns.
 - **Fuel Efficiency Monitoring**: Tips and insights to improve fuel economy.
 - **Driving Behavior Analysis**: Feedback on driving habits to enhance safety and efficiency.

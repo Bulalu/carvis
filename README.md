@@ -74,7 +74,7 @@ Carvis can be set up in a couple of ways depending on your preference for runnin
 1. **Clone the Repository**: Clone this repository to your local machine using:
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Bulalu/carvis
    ```
 
 2. **Install Dependencies**: Install the required Python packages using:

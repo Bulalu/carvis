@@ -42,3 +42,5 @@ def extract_data(frames):
         full_info = {**base_info, **signals, 'timestamp': pd.to_datetime(frame['timestamp'], unit='s')}
         result.append(full_info)
     return result
+
+

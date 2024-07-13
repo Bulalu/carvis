@@ -12,6 +12,39 @@ Carvis is an innovative car assistant that taps into the CAN-Bus network of your
 ### Available Now
 - **Decoded CAN Frames**: JSON file with decoded data for analysis.
 - **Data Analysis Notebook**: Jupyter notebook for parsing and analyzing CAN data.
+- **Available Data for Analysis**:
+  - ServicesDME
+  - TransmissionData
+  - NetworkManagment5
+  - Torque2
+  - SteeringButtons
+  - InstrumentClusterStatus_KOMBI
+  - NetworkManagment1
+  - ServicesKBM
+  - CruiseControlStatus
+  - NetworkManagment2
+  - TurnSignals
+  - Time_Date
+  - Speed
+  - CruiseControl
+  - EngineAndBrake
+  - Torque_request_EGS
+  - TerminalStatus
+  - PowerBatteryVoltage
+  - SteeringWheelAngle_slow
+  - ServicesDSC
+  - Range_Mileage
+  - SteeringWheelAngle
+  - AccPedal
+  - NetworkManagment4
+  - TransimissionData2
+  - StatusDSC_KCAN
+  - ServicesKGM
+  - ServicesKOMBI
+  - WheelSpeeds
+  - EngineData
+  - DistanceRoute
+  - WheelPressure_KCAN
 
 ### Coming Soon
 - **API**: An API for accessing Carvis data and integrating with other applications.

@@ -4,7 +4,7 @@
 
 Carvis is an innovative car assistant that taps into the CAN-Bus network of your vehicle, providing real-time monitoring, predictive maintenance alerts, and driving insights to enhance your driving experience and vehicle management.
 
-![Vibes](img/carvis.jpg)
+![Vibes](img/carvis.jpeg)
 
 ## Features
 
